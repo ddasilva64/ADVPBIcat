@@ -1,6 +1,6 @@
 # Components entorn BI
 
-
+**Contenidors de dades**
 
 * **Dispersió de les dades**: Les dades acostumen a estar disperses i existir en _**diferents tipus de contenidors.**_
 * **Contenidors de dades**: _**Magatzems de dades,**_ el contingut dels quals pot ser _**de diferent naturalesa**_, a causa de l'eina que genera aquestes dades.
