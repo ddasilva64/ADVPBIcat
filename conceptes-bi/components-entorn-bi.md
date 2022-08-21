@@ -8,3 +8,6 @@
   * _**Data sources**_: Elements que emmagatzemen dades en origen.
   * _**Data targets**_: Magatzems de dades de destinació.
   * _**Data intermediate**_: Magatzems intermedis, que puguin ser necessaris utilitzar per a un tractament específic de les dades en un moment determinat, per al modelatge d'aquestes.
+
+**Eines ETL (Extraction-Transform-Load)**
+
