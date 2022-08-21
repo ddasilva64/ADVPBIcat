@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Resumen](README.md)
+* [Resum](README.md)
