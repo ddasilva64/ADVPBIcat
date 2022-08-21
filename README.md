@@ -6,8 +6,6 @@ description: >-
 
 # Resum
 
-
-
 **Per què hauria d'aprendre això?**
 
 * millorar l'ús de Power BI
