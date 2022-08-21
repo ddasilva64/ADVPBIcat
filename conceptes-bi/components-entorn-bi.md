@@ -1,0 +1,2 @@
+# Components entorn BI
+
