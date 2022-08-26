@@ -1,7 +1,5 @@
 # Posició Power BI davant dels competidors
 
-
-
 **Microsoft Power BI**
 
 * Solució BI de _**Microsoft**_
